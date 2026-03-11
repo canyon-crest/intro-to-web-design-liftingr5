@@ -1,1 +1,17 @@
+body{
+    background-color: rgba(68, 229, 68, 0.592);
+    color: black;
+    font-family: sans-serif;
+}
 
+p{
+    line-height: 2.25em;
+}
+
+img {
+    width: 300px;
+    float: left;
+    border: solid 3px red;
+    border-radius: 9px;
+    margin-right: 20px;
+}
